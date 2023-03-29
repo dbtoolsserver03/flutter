@@ -1,4 +1,4 @@
-package com.example.flutter05_icon
+package com.example.flutter03
 
 import io.flutter.embedding.android.FlutterActivity
 
